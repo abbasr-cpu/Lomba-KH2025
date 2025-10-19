@@ -3,12 +3,12 @@
 <div align="center">
 
 ![FinEdu Logo](https://img.shields.io/badge/FinEdu-Financial_Education-success?style=for-the-badge)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://hudzaiflank.github.io/lomba-rasya/)
-[![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub_Pages-green?style=for-the-badge&logo=github)](https://hudzaiflank.github.io/lomba-rasya/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://Abbasr-cpu.github.io/Lomba-KH2025/)
+[![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub_Pages-green?style=for-the-badge&logo=github)](https://Abbasr-cpu.github.io/Lomba-KH2025/)
 
 **Platform edukasi keuangan interaktif yang dirancang khusus untuk membantu siswa SMP belajar mengelola uang jajan, menabung, dan mencapai tujuan finansial mereka.**
 
-[🌐 Live Demo](https://hudzaiflank.github.io/lomba-rasya/) | [📖 Dokumentasi](#dokumentasi) | [🚀 Installation](#instalasi)
+[🌐 Live Demo](https://Abbasr-cpu.github.io/Lomba-KH2025/) | [📖 Dokumentasi](#dokumentasi) | [🚀 Installation](#instalasi)
 
 </div>
 
@@ -53,28 +53,33 @@ Literasi keuangan adalah keterampilan penting yang harus diajarkan sejak dini. N
 ## ✨ Fitur Utama
 
 ### 1. 📊 Dashboard Interaktif
+
 - **Ringkasan Keuangan**: Melihat uang jajan, sisa uang, dan tujuan aktif dalam satu tampilan
 - **Progress Chart dengan Gradient**: Visualisasi progress tabungan dengan circular chart yang cantik
 - **Simulator Real-time**: Menghitung estimasi waktu untuk mencapai tujuan berdasarkan tabungan harian
 
 ### 2. 🎯 Manajemen Tujuan
+
 - **Buat Tujuan Tabungan**: Tetapkan target (misal: laptop, sepeda, gadget)
 - **Custom Warna**: Personalisasi setiap tujuan dengan warna favorit
 - **Progress Tracking**: Pantau kemajuan dengan progress bar dan estimasi waktu
 - **Multiple Goals**: Kelola beberapa tujuan sekaligus
 
 ### 3. 💰 Pelacakan Pengeluaran
+
 - **Catat Transaksi**: Input pengeluaran harian dengan mudah
 - **Riwayat Lengkap**: Lihat semua transaksi dalam list yang terorganisir
 - **Bonus Tracking**: Catat bonus uang yang diterima
 - **Auto-Save**: Setor sisa uang ke tujuan aktif dengan satu klik
 
 ### 4. 📚 Edukasi Keuangan
+
 - **Materi Interaktif**: Pelajari konsep keuangan dasar
 - **Tips Menabung**: Panduan praktis untuk menabung efektif
 - **Ilustrasi Sederhana**: Analogi mudah dipahami untuk anak SMP
 
 ### 5. 🎨 UI/UX Modern
+
 - **Responsive Design**: Tampilan optimal di HP, tablet, dan PC
 - **Hamburger Menu**: Menu mobile yang smooth dan elegant
 - **Gradient & Animations**: Visual menarik dengan gradient colors dan smooth transitions
@@ -82,6 +87,7 @@ Literasi keuangan adalah keterampilan penting yang harus diajarkan sejak dini. N
 - **Emoji Icons**: Ikon fun yang engaging untuk anak muda
 
 ### 6. 🔐 Keamanan & Privasi
+
 - **User Authentication**: Login dan registrasi dengan password
 - **Local Storage**: Data tersimpan aman di browser
 - **Private Routes**: Proteksi halaman yang memerlukan login
@@ -92,15 +98,15 @@ Literasi keuangan adalah keterampilan penting yang harus diajarkan sejak dini. N
 
 ### Frontend Framework & Libraries
 
-| Teknologi | Versi | Kegunaan |
-|-----------|-------|----------|
-| ⚛️ **React** | 19.1.1 | UI Framework untuk membangun komponen interaktif |
-| 🚀 **Vite** | Latest | Build tool yang super cepat |
-| 🎨 **Tailwind CSS** | 4.1.14 | Utility-first CSS framework untuk styling modern |
-| 🗺️ **React Router** | 7.9.4 | Routing dan navigation |
-| 📊 **Chart.js** | 4.5.1 | Visualisasi data dengan chart |
-| 🔄 **Zustand** | 5.0.8 | State management yang simpel dan powerful |
-| 🍭 **SweetAlert2** | 11.26.2 | Alert dialog yang cantik |
+| Teknologi           | Versi   | Kegunaan                                         |
+| ------------------- | ------- | ------------------------------------------------ |
+| ⚛️ **React**        | 19.1.1  | UI Framework untuk membangun komponen interaktif |
+| 🚀 **Vite**         | Latest  | Build tool yang super cepat                      |
+| 🎨 **Tailwind CSS** | 4.1.14  | Utility-first CSS framework untuk styling modern |
+| 🗺️ **React Router** | 7.9.4   | Routing dan navigation                           |
+| 📊 **Chart.js**     | 4.5.1   | Visualisasi data dengan chart                    |
+| 🔄 **Zustand**      | 5.0.8   | State management yang simpel dan powerful        |
+| 🍭 **SweetAlert2**  | 11.26.2 | Alert dialog yang cantik                         |
 
 ### Development Tools
 
@@ -112,39 +118,44 @@ Literasi keuangan adalah keterampilan penting yang harus diajarkan sejak dini. N
 
 ---
 
-## 🎥 Demo Aplikasi
-
-### 🌐 Live Demo
-**URL:** [https://hudzaiflank.github.io/lomba-rasya/](https://hudzaiflank.github.io/lomba-rasya/)
-
 ### 📸 Screenshots
 
 #### 1. Halaman Login/Register
+
 ![Auth Page](https://via.placeholder.com/800x400/10B981/FFFFFF?text=FinEdu+Authentication)
+
 - Tampilan login yang modern dengan gradient background
 - Fitur registrasi untuk user baru
 - Form dengan placeholder yang jelas
 
 #### 2. Dashboard
+
 ![Dashboard](https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=Dashboard+with+Charts)
+
 - Stats cards dengan gradient colors
 - Circular progress chart dengan gradient
 - Simulator estimasi real-time
 
 #### 3. Halaman Tujuan
+
 ![Goals Page](https://via.placeholder.com/800x400/8B5CF6/FFFFFF?text=Goals+Management)
+
 - Form tambah tujuan baru
 - List tujuan dengan progress bar
 - Estimasi waktu pencapaian
 
 #### 4. Halaman Pengeluaran
+
 ![Spending Page](https://via.placeholder.com/800x400/EC4899/FFFFFF?text=Expense+Tracking)
+
 - Input pengeluaran harian
 - Riwayat transaksi lengkap
 - Stats cards untuk monitoring
 
 #### 5. Halaman Edukasi
+
 ![Education Page](https://via.placeholder.com/800x400/F59E0B/FFFFFF?text=Financial+Education)
+
 - Materi edukasi keuangan
 - Tips dan ilustrasi
 - Cards dengan gradient background
@@ -156,6 +167,7 @@ Literasi keuangan adalah keterampilan penting yang harus diajarkan sejak dini. N
 ### Prerequisites
 
 Pastikan sudah terinstall:
+
 - ✅ **Node.js** (versi 18 atau lebih tinggi)
 - ✅ **npm** (biasanya terinstall bersama Node.js)
 - ✅ **Git**
@@ -165,8 +177,8 @@ Pastikan sudah terinstall:
 #### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Hudzaiflank/lomba-rasya.git
-cd lomba-rasya
+git clone https://github.com/Abbasr-cpu/Lomba-KH2025.git
+cd Lomba-KH2025
 ```
 
 #### 2. Install Dependencies
@@ -257,7 +269,7 @@ npm run preview
 ## 📁 Struktur Proyek
 
 ```
-lomba-rasya/
+Lomba-KH2025/
 ├── .github/
 │   └── workflows/
 │       └── deploy.yml          # GitHub Actions workflow
@@ -295,26 +307,33 @@ lomba-rasya/
 ### Penjelasan Komponen Penting
 
 #### 🗂️ `src/store/useAppStore.js`
+
 State management menggunakan Zustand yang mengelola:
+
 - User authentication
 - Goals management
 - Wallet & daily expenses
 - Settings (uang jajan default)
 
 #### 🎨 `src/components/ProgressDonut.jsx`
+
 Komponen circular progress chart dengan:
+
 - Gradient colors
 - Smooth animations
 - Glow effects
 - Responsive sizing
 
 #### 🧭 `src/router/AppRouter.jsx`
+
 Routing menggunakan React Router dengan:
+
 - HashRouter (kompatibel dengan GitHub Pages)
 - Private routes protection
 - Lazy loading
 
 #### 🎯 `src/views/`
+
 Halaman-halaman utama aplikasi dengan UI modern dan responsive
 
 ---
@@ -373,17 +392,13 @@ File: `vite.config.js`
 ```javascript
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: '/lomba-rasya/',  // Repository name
+  base: "/Lomba-KH2025/", // Repository name
   build: {
-    outDir: 'dist',
-    assetsDir: 'assets',
+    outDir: "dist",
+    assetsDir: "assets",
   },
 });
 ```
-
-#### URL Production
-
-**Live Site:** [https://hudzaiflank.github.io/lomba-rasya/](https://hudzaiflank.github.io/lomba-rasya/)
 
 ---
 
@@ -403,14 +418,22 @@ const useAppStore = create(
       settings: { defaultDailyAllowance: 50000 },
 
       // Actions
-      registerUser: (name, password) => { /* ... */ },
-      loginUser: (name, password) => { /* ... */ },
-      addGoal: (goalData) => { /* ... */ },
-      addExpense: (expenseData) => { /* ... */ },
+      registerUser: (name, password) => {
+        /* ... */
+      },
+      loginUser: (name, password) => {
+        /* ... */
+      },
+      addGoal: (goalData) => {
+        /* ... */
+      },
+      addExpense: (expenseData) => {
+        /* ... */
+      },
       // ... other actions
     }),
     {
-      name: 'finedu-storage', // localStorage key
+      name: "finedu-storage", // localStorage key
     }
   )
 );
@@ -422,7 +445,14 @@ const useAppStore = create(
 <HashRouter>
   <Routes>
     <Route path="/auth" element={<AuthPage />} />
-    <Route path="/" element={<PrivateRoute><Layout /></PrivateRoute>}>
+    <Route
+      path="/"
+      element={
+        <PrivateRoute>
+          <Layout />
+        </PrivateRoute>
+      }
+    >
       <Route index element={<Dashboard />} />
       <Route path="goals" element={<GoalsPage />} />
       <Route path="spending" element={<SpendingPage />} />
@@ -435,11 +465,13 @@ const useAppStore = create(
 ### Responsive Design
 
 Menggunakan Tailwind CSS breakpoints:
+
 - `sm:` - Small devices (≥640px)
 - `md:` - Medium devices (≥768px)
 - `lg:` - Large devices (≥1024px)
 
 Contoh:
+
 ```jsx
 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
   {/* Responsive grid */}
@@ -450,8 +482,13 @@ Contoh:
 
 ```css
 @keyframes pulse-slow {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.8; }
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.8;
+  }
 }
 
 .animate-pulse-slow {
@@ -467,10 +504,10 @@ Contoh:
 
 ```javascript
 const brandColors = {
-  primary: '#71CB90',      // Green
-  greenLight: '#B5E8A4',   // Light Green
-  pink: '#FFB0C4',         // Pink
-  coralLight: '#FFC8C4',   // Coral Light
+  primary: "#71CB90", // Green
+  greenLight: "#B5E8A4", // Light Green
+  pink: "#FFB0C4", // Pink
+  coralLight: "#FFC8C4", // Coral Light
 };
 ```
 
@@ -492,21 +529,25 @@ const brandColors = {
 ## 📊 Fitur Teknis
 
 ### 1. Data Persistence
+
 - Menggunakan `localStorage` via Zustand persist
 - Data tersimpan secara otomatis
 - Tidak perlu database server
 
 ### 2. Real-time Calculations
+
 - Estimasi waktu pencapai tujuan
 - Rata-rata tabungan 14 hari
 - Sisa uang otomatis terhitung
 
 ### 3. Form Validation
+
 - Input validation untuk angka
 - Required fields checking
 - User-friendly error messages
 
 ### 4. Performance Optimization
+
 - Code splitting dengan React lazy loading
 - Optimized bundle dengan Vite
 - Minimal re-renders dengan Zustand
@@ -520,6 +561,7 @@ const brandColors = {
 **Problem**: `npm run build` error
 
 **Solution**:
+
 ```bash
 rm -rf node_modules package-lock.json
 npm install
@@ -530,7 +572,8 @@ npm run build
 
 **Problem**: GitHub Pages menampilkan 404
 
-**Solution**: 
+**Solution**:
+
 - Pastikan menggunakan `HashRouter` bukan `BrowserRouter`
 - Check `base` path di `vite.config.js`
 - Verify GitHub Pages settings menggunakan GitHub Actions
@@ -540,6 +583,7 @@ npm run build
 **Problem**: Tailwind classes tidak bekerja
 
 **Solution**:
+
 - Check `tailwind.config.js`
 - Pastikan import di `index.css` benar
 - Clear cache dan rebuild
@@ -608,9 +652,9 @@ git push origin feature/nama-fitur
 
 ### Developer
 
-**Hudzaiflank**
-- GitHub: [@Hudzaiflank](https://github.com/Hudzaiflank)
-- Project: [lomba-rasya](https://github.com/Hudzaiflank/lomba-rasya)
+**Abbasr-cpu**
+
+- GitHub: [@abbasr-cpu](https://github.com/abbasr-cpu/Lomba-KH2025)
 
 ### Credits
 
@@ -631,6 +675,7 @@ Project ini dibuat untuk keperluan kompetisi/lomba pendidikan.
 ## 🙏 Acknowledgments
 
 Terima kasih kepada:
+
 - 🎓 Sekolah dan guru-guru yang mendukung
 - 👨‍👩‍👧‍👦 Keluarga yang selalu mendukung
 - 💻 Open source community
@@ -642,9 +687,9 @@ Terima kasih kepada:
 
 Jika ada pertanyaan atau feedback:
 
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/Hudzaiflank/lomba-rasya/issues)
-- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/Hudzaiflank/lomba-rasya/discussions)
-- 📧 **Email**: [Contact via GitHub](https://github.com/Hudzaiflank)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/abbasr-cpu/Lomba-KH2025/issues)
+- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/abbasr-cpu/Lomba-KH2025/discussions)
+- 📧 **Email**: [Contact via GitHub](https://github.com/abbasr-cpu)
 
 ---
 
@@ -654,8 +699,8 @@ Jika ada pertanyaan atau feedback:
 
 **Dibuat dengan ❤️ untuk edukasi finansial generasi muda Indonesia**
 
-[![Star on GitHub](https://img.shields.io/github/stars/Hudzaiflank/lomba-rasya?style=social)](https://github.com/Hudzaiflank/lomba-rasya)
-[![Fork on GitHub](https://img.shields.io/github/forks/Hudzaiflank/lomba-rasya?style=social)](https://github.com/Hudzaiflank/lomba-rasya/fork)
+[![Star on GitHub](https://img.shields.io/github/stars/abbasr-cpu/Lomba-?style=social)](https://github.com/abbasr-cpu/Lomba-)
+[![Fork on GitHub](https://img.shields.io/github/forks/abbasr-cpu/Lomba-?style=social)](https://github.com/abbasr-cpu/Lomba-/fork)
 
 [⬆ Kembali ke atas](#-finedu---platform-edukasi-keuangan-untuk-siswa-smp)
 
